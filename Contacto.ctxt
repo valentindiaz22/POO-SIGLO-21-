@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Contacto
+comment1.params=cbu\ alias\ nombre
+comment1.target=Contacto(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCbu()
+comment3.params=nuevoCbu
+comment3.target=void\ setCbu(int)
+comment4.params=
+comment4.target=java.lang.String\ getAlias()
+comment5.params=nuevoAlias
+comment5.target=void\ setAlias(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=nuevoNombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

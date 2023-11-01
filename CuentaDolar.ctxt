@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CuentaDolar
+comment1.params=saldo\ dniDue\u00F1o
+comment1.target=CuentaDolar(int,\ Cliente)
+comment2.params=cuentaDolar\ cuenta\ aux
+comment2.target=java.lang.String\ comprarDolar(CuentaDolar,\ Cuenta,\ int)
+comment3.params=cuentaDolar\ cuenta\ aux
+comment3.target=java.lang.String\ venderDolar(CuentaDolar,\ Cuenta,\ int)
+numComments=4
